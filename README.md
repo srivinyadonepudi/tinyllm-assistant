@@ -16,7 +16,7 @@ This project demonstrates a lightweight Large Language Model (LLM) assistant run
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tinyllm-assistant.git
+git clone https://github.com/srivinyadonepudi/tinyllm-assistant.git
 cd tinyllm-assistant
 ```
 
