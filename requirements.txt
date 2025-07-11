@@ -1,0 +1,6 @@
+transformers>=4.30.0
+accelerate
+bitsandbytes
+streamlit
+torch>=1.13.1
+numpy
